@@ -4,9 +4,10 @@ using std::cout;
 
 int main()
 {
-	/* print enthusiastic message: */
-	cout << "hello world!\n";
+	//print
+	cout << "I like git\n";
 	return 0;
 }
 
 // vim:foldlevel=1
+//i wonder what this comment means
